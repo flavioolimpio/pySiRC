@@ -8,7 +8,7 @@ from texts import Texts
 from pysirc_tools import ApplicabilityDomain
 
 import pickle
-import cirpy
+#import cirpy
 
 from rdkit.Chem import AllChem, Draw
 from rdkit.Chem import MACCSkeys
