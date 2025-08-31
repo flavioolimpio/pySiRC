@@ -2,7 +2,7 @@ import numpy as np
 from numpy import log, e
 from math import sqrt
 import pandas as pd
-from tqdm import tqdm
+#from tqdm import tqdm
 
 class Smetrics:
     def __init__(self):
